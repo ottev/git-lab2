@@ -1,5 +1,3 @@
-
-
 Проект для лабораторной работы №2
 
 по дисциплине «Инструменты разработки».
@@ -19,4 +17,10 @@ python app.py
 
 
 python -m pytest -q
+
+
+
+https://github.com/ottev/git-lab2
+
+
 
